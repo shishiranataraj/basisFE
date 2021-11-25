@@ -8,7 +8,7 @@ The app is hosted using Firbase hosting.
 
 ## Working flow: 
 
--> A few logins were created while development, a few you can try are : shishira_nataraj@live.com , shishiranataraj27@gmail.com .
+-> Some logins were created while development, a few you can try are : shishira_nataraj@live.com , shishiranataraj27@gmail.com .
 Upon email ID given, the verify API is called to verify the crediblity of the user, on success, the user data is put onto a redux store. 
 Based on the redux store isLogin status, the decision to login or not is given. 
 
